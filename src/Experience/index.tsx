@@ -1,3 +1,7 @@
 export default function Experience() {
-  return <h1>EXPERIENCE</h1>;
+  return (
+    <div className="container mt-4">
+      <h1>Experience</h1> <hr />
+    </div>
+  );
 }

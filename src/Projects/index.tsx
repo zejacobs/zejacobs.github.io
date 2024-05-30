@@ -1,3 +1,8 @@
 export default function Projects() {
-  return <h1>PROJECTS</h1>;
+  return (
+    <div className="container mt-4">
+      <h1>Projects</h1>
+      <hr />
+    </div>
+  );
 }
